@@ -1,4 +1,6 @@
-RocketFuel project
+# RocketFuel
+Mapping ISP topologies with RocketFuel
+
 by:
 Amit Licht
 Hillel Merran
@@ -34,3 +36,5 @@ Modules:
  match.py - run tests for the alias resolution module
  matches_help.py - tests for the alias resolution module
  union_find.py - a union find data structure
+
+RocketFuel article - http://research.cs.washington.edu/networking/rocketfuel/papers/sigcomm2002.pdf
